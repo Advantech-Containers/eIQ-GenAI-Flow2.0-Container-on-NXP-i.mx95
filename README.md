@@ -104,7 +104,7 @@ eIQ-GenAI-Flow2.0-Container-on-NXP-i.mx95/
 > If you are on **Windows**, please follow the steps in [Windows Git Line Ending Setup](./windows-git-setup.md) before cloning to ensure scripts and configuration files work correctly on Device.
 
 ```bash
-git clone https://github.com/Advantech-EdgeSync-Containers/eIQ-GenAI-Flow2.0-Container-on-NXP-i.mx95.git
+git clone https://github.com/Advantech-Containers/eIQ-GenAI-Flow2.0-Container-on-NXP-i.mx95.git
 cd eIQ-GenAI-Flow2.0-Container-on-NXP-i.mx95
 ```
 
