@@ -115,8 +115,7 @@ eIQ-GenAI-Flow2.0-Container-on-NXP-i.mx95/
 
 #### Option 2: Auto Judge Platform Script
 1. Download repo and copy the project files to device
-
-<img width="398" height="372" alt="image" src="https://github.com/user-attachments/assets/6983703c-6a0c-4d18-b926-d413dd1de9d9" />
+   ![alt text](image.png)
 
 3. Unzip files and setup permission with following commands:
     ```bash
